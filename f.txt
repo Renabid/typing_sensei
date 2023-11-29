@@ -1,3 +1,0 @@
-The Sentence: C is case-sensitive language.
-Typing Speed: 2.00 characters per second
-Accuracy: [31m75.00%[0m
