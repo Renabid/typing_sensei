@@ -51,7 +51,7 @@ int main() {
     printf("\nTyping speed: %.2f characters per second\n", typingspeed);
     printf("Typing accuracy: %.2f%%\n", accuracy);
 
-    //file
+    //savedfile
     saveresult(sentence, typingspeed, accuracy);
 
     return 0;
