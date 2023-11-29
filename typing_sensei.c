@@ -106,7 +106,7 @@ void saveresult(char sentence[max_sentence_length], float typingspeed, float acc
     char filename[max_filename_length];
     printf("Enter A File Name:");
     scanf("%s", &filename);
-    // Add ".txt" to the filename
+    // add ".txt" to the filename
     strcat(filename, ".txt");
     FILE *file=fopen(filename, "w");
     if (file==NULL)
